@@ -57,8 +57,8 @@ console.log(typeof 10n);
 console.log(2998e8);
 console.log(299800000000);
 
- let scatolaVuota2;/* memorizzo */
- console.log(typeof scatolaVuota2);
+let scatolaVuota2;/* memorizzo */
+console.log(typeof scatolaVuota2);
 scatolaVuota2 = 'ciao'/* assegnando */
 console.log(typeof scatolaVuota2);
 console.log(typeof NaN);
@@ -94,5 +94,6 @@ const cognome = 'maggio'/* stringa */
 const indirizzo = 'via roma';/* non psoso modificare un acostante */
 /* indirizzo = 'via lecce'; */
 
-console.log( (10 + (+'10')));/* php 20 */
+console.log((10 + (+'10')));/* php 20 */
+
 
