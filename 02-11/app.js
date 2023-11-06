@@ -90,6 +90,9 @@ console.log(nuova.trim().length);
 let varprova = 'testo esterno '
 console.log(varprova);
 
+console.dir(String);
+
+
 
 
 /* 
